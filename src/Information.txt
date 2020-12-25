@@ -1,0 +1,22 @@
+This codebase contains 4 components:-
+1. App.jsx
+2. Cards.jsx
+3. Image.jsx
+4. Sdata.jsx
+
+Each component needs to be exported to the component where
+it is to be used.
+
+"""" function ncard(val){
+    return ()
+}
+"""
+Above mentioned function can be rewritten in lucid 
+way using FAT ARROW.
+
+const ncard = (val) =>{
+
+}
+Image.jsx contains {} while App.jsx contains ()--->
+so there is confusion, Hence checkout thapa technical's
+video to resolve this issue.
